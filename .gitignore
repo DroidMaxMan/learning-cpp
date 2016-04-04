@@ -1,0 +1,12 @@
+*.DS_Store
+*.sublime-*
+.idea/*
+/bower_components/*
+/node_modules/*
+.sass-cache/*
+.tmp/*
+zip/**/*
+dist/**/*
+google*.html
+.metadata/
+RemoteSystemsTempFiles/
