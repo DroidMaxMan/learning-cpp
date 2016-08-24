@@ -10,3 +10,4 @@ dist/**/*
 google*.html
 .metadata/
 RemoteSystemsTempFiles/
+.vscode/
