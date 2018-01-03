@@ -5,7 +5,7 @@ Proyecto para practicar la sintaxis de C++
 
 ### Copyright & License
 
-Copyright 2016 @DroidMaxMan All rights reserved.
+Copyright 2018 @alxgcrz All rights reserved.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

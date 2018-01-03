@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2016 @DroidMaxMan. All rights reserved.
+ * Copyright (c) 2018 @alxgcrz. All rights reserved.
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at
@@ -17,7 +17,7 @@
  * Estructuras.h
  *
  *  Created on: 19 de ene. de 2016
- *  Author: @DroidMaxMan
+ *  Author: @alxgcrz
  */
 
 #ifndef ESTRUCTURAS_H_

@@ -1,1 +1,0 @@
-euros.o: ../euros.cpp
